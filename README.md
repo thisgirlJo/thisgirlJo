@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @thisgirlJo
-- 👀 I’m interested in bettering myself, food, Korean dramas and anime.
-- 🌱 I’m currently learning BAckend Web Development focusing on Python and Django.
-- 💞️ I’m looking to collaborate on Backend Web Dev projects
-- 📫 Hit me up at judithogbole@71gmail.com
+- 🌱 I’m currently in Backend Web Development focusing on Python and Django.
+- 💞️ I’m looking to gain more experience as I work on more Backend Web Dev projects
+- 📫 Hit me up at __thisgirl_jo on X.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I lovvvveeee reading. Some people think that's boring... but my imagination runs wild!!! Want to know more? 
+- ⚡ Fun fact: I lovvvveeee reading. Some people think that's boring... but my imagination runs wild!!! Want to know more?
 
 <!---
 thisgirlJo/thisgirlJo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
